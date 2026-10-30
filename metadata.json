@@ -1,0 +1,7 @@
+{
+  "name": "Ondeway Coffee Company · OS",
+  "description": "Dashboard bisnis terintegrasi Ondeway Coffee Company: POS resep & HPP otomatis, stok green bean ke cup, B2C poin & B2B tier harga, keuangan, dan performa bisnis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
